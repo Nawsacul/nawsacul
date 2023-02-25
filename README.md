@@ -1,9 +1,8 @@
 ## Olá, Mundo! Eu sou o Lucas😄👋🏻
 
-* ### Desenvolvedor Front-End :computer::coffee:
-* ### Estudante :mortar_board::books:
+* ### Desenvolvedor Front-End Júnior :computer::coffee:
+* ### Estudante (Ciências da Computação e Direito) :mortar_board::books:
 * ### Games :space_invader::video_game:
-* ### Astronomia :telescope::milky_way:
 
 ##
   
