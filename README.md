@@ -4,9 +4,8 @@
 * ### Estudante (Ciências da Computação e Direito) :mortar_board::books:
 * ### Games :space_invader::video_game:
 
-##
 
-##
+## Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,9 +16,8 @@
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
   
-  ##
   
-  ##
+  ## Redes
   
   <div>
     <a href = "mailto:lucaswan09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
