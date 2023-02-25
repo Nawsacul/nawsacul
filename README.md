@@ -1,4 +1,4 @@
-## Olá, Mundo! Eu sou o Lucas😄👋🏻
+## Olá, Mundo! Eu sou o Lucas👋🏻
 
 * ### Desenvolvedor Front-End Júnior :computer::coffee:
 * ### Estudante (Ciências da Computação e Direito) :mortar_board::books:
@@ -25,7 +25,7 @@
     <a href="https://github.com/Nawsacul" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
   
-<picture style="display:flex; justify-content: center; align-items: center;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nawsacul/nawsacul/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nawsacul/nawsacul/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
