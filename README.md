@@ -1,7 +1,7 @@
 ## Olá, Mundo! Eu sou o Lucas👋🏻
 
 * ### Desenvolvedor Front-End Júnior :computer::coffee:
-* ### Estudante (Ciências da Computação e Direito) :mortar_board::books:
+* ### Ciências da Computação e Direito :mortar_board::books:
 * ### Games :space_invader::video_game:
 
 
@@ -13,6 +13,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg)">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
   
