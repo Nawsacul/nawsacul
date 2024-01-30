@@ -1,8 +1,9 @@
-## Olá, Mundo! Eu sou o Lucas👋🏻
+## Olá Mundo! Eu sou o Lucas👋🏻 || Hello world! I'm Lucas👋🏻
 
-* ### Desenvolvedor Front-End Júnior :computer::coffee:
-* ### Ciências da Computação e Direito :mortar_board::books:
+* ### Desenvolvedor Front-End Júnior :computer::coffee: || Junior Front-End Developer :computer::coffee:
+* ### Ciências da Computação e Direito :mortar_board::books: || Computer Science and Law :mortar_board::books:
 * ### Games :space_invader::video_game:
+* ### Esportes :weight_lifting: || Sports :weight_lifting:
 
 
 ## Tecnologias
@@ -11,11 +12,11 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">          
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Lucas-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">          
  </div>
   
   
