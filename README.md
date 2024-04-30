@@ -5,6 +5,12 @@
 * ### Games :space_invader::video_game:
 * ### Esportes :weight_lifting: || Sports :weight_lifting:
 
+## Status
+
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawsacul&theme=chartreuse-dark&include_all_commits=true&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawsacul&theme=chartreuse-dark&layout=compact">
+  </div>
 
 ## Tecnologias
   
@@ -20,15 +26,8 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
   <img align="center" alt="Lucas-Json" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-  
- </div>
+</div>
 
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawsacul&theme=chartreuse-dark&include_all_commits=true&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawsacul&theme=chartreuse-dark&layout=compact">
-  </div>
-  
   ## Redes
   
   <div>
