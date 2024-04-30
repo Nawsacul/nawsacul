@@ -23,7 +23,11 @@
   
   
  </div>
-  
+
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawsacul&theme=chartreuse-dark&include_all_commits=true&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawsacul&theme=chartreuse-dark&layout=compact">
+  </div>
   
   ## Redes
   
