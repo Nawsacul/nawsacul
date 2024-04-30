@@ -5,7 +5,7 @@
 * ### Games :space_invader::video_game:
 * ### Esportes :weight_lifting: || Sports :weight_lifting:
 
-## Status
+## Stats
 
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawsacul&theme=chartreuse-dark&include_all_commits=true&show_icons=true">
