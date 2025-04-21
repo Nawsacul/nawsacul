@@ -1,6 +1,6 @@
 ## Olá Mundo! Eu sou o Lucas👋🏻 || Hello world! I'm Lucas👋🏻
 
-* ### Desenvolvedor Front-End Júnior :computer::coffee: || Junior Front-End Developer :computer::coffee:
+* ### Desenvolvedor Front-End Pleno :computer::coffee: || Mid level Front-End Developer :computer::coffee:
 * ### Ciências da Computação e Direito :mortar_board::books: || Computer Science and Law :mortar_board::books:
 * ### Games :space_invader::video_game:
 * ### Esportes :weight_lifting: || Sports :weight_lifting:
